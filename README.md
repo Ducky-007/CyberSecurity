@@ -28,6 +28,7 @@ Hawaii, Idaho, Maine, Montana, Nebraska, New Hampshire, New Mexico and West Virg
 
 
 Benny and Charlotte had the highest average assignee rating 
+
 Sebastian and Aleena had the lowest average assignee rating
 
 50% of total rating reviews were 5 stars 
