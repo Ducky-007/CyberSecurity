@@ -26,7 +26,6 @@ California had the most ticket requests
 
 Hawaii, Idaho, Maine, Montana, Nebraska, New Hampshire, New Mexico and West Virginia had the least ticket requests
 
-
 Benny and Charlotte had the highest average assignee rating 
 
 Sebastian and Aleena had the lowest average assignee rating
@@ -51,6 +50,7 @@ Continue to invest into Data Privacy offers, marketing and products
 Reevaluate Security Gap offers, products and marketing
 
 Continue marketing towards California
+
 Reevaluate marketing to Hawaii, Idaho, Maine, Montana, Nebraska, New Hampshire, New Mexico and West 
 
 Have Benny and Charlotte mentor Sebastian and Aleena for better assignee ratings which will increase the positive trend for 5 star rating reviews
