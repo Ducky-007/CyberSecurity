@@ -46,6 +46,7 @@ Washington’s average ticket completion days were 72 days
 Be prepared for high volume requests in late spring and late summer
 
 Continue to invest into Data Privacy offers, marketing and products
+
 Reevaluate Security Gap offers, products and marketing
 
 Continue marketing towards California
