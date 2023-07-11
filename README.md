@@ -9,7 +9,7 @@ Tableau workbook is attached for fully interactive dashboards.
 Dashboard and Images showcase: monthly ticket volume, 
                                category ticket totals,
                                assignee average rating,
-                               percentage of toal ratings,
+                               percentage of total ratings,
                                rating trend,
                                states with the most tickets,
                                states with the least amount of tickets,
