@@ -18,7 +18,7 @@ Dashboard and Images showcase: monthly ticket volume,
                                map with each states' average ticket completion compared to the total average
 
 # Conclusion
-Highest ticket volumes in 2021 were April, May August
+Highest ticket volumes in 2021 were April, May and August
 
 Data Privacy had the most ticket requests
 
