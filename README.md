@@ -4,7 +4,7 @@ This fictitious dataset contains the datapoints on tickets that were raised by c
 
 You will find files with the raw dataset file and cleaned dataset
 
-Tableau workbook is attached for fully interactive dashboards.
+Tableau workbook is attached for fully interactive dashboards
 
 Dashboard and Images showcase: monthly ticket volume, 
                                category ticket totals,
