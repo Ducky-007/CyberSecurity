@@ -2,7 +2,7 @@
 
 This fictitious dataset contains the datapoints on tickets that were raised by customers in North America to reach out to a cybersecurity team for consultation. It is assumed that the cybersecurity team provides consultation on various information security and data privacy related matters upon raising a request.
 
-You will find files with the raw dataset file and cleaned dataset.
+You will find files with the raw dataset file and cleaned dataset
 
 Tableau workbook is attached for fully interactive dashboards.
 
